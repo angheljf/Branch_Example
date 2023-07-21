@@ -40,4 +40,4 @@ If you have any questions or encounter any issues, please don't hesitate to ask 
 
 **Example Branch Graph**:
 
-![Branch Graph for the Repository](Branch_Graph.png)
+![Branch Graph for the Repository](Branch_Graph.PNG)

@@ -37,3 +37,7 @@ That's it! Your branch and its associated files should now be pushed to the repo
 Feel free to modify and adapt the commands to suit your specific needs and project structure.
 
 If you have any questions or encounter any issues, please don't hesitate to ask for assistance.
+
+**Example Branch Graph**:
+
+![Branch Graph for the Repository](Branch_Graph.png)
